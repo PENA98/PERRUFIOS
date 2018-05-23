@@ -1,1 +1,2 @@
 C:\Users\fiall.CHRISFIALLOS-PC\Desktop\Repositorios\Prueba_git\Prueba_git\bin\Debug\Prueba_git.exe.config
+C:\Users\Usuario\Desktop\Repositorios\ONE\Prueba_git\Prueba_git\bin\Debug\Prueba_git.exe.config
