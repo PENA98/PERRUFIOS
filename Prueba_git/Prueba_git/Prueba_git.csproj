@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cargos.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="DescripcionMandado.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="FormaDePago.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TipoEntrega.cs" />
+    <Compile Include="Transporte.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

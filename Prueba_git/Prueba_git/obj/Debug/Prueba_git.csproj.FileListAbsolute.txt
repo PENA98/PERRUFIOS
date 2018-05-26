@@ -1,2 +1,7 @@
 C:\Users\fiall.CHRISFIALLOS-PC\Desktop\Repositorios\Prueba_git\Prueba_git\bin\Debug\Prueba_git.exe.config
 C:\Users\Usuario\Desktop\Repositorios\ONE\Prueba_git\Prueba_git\bin\Debug\Prueba_git.exe.config
+C:\Users\Usuario\Desktop\Repositorios\One\Prueba_git\Prueba_git\bin\Debug\Prueba_git.exe
+C:\Users\Usuario\Desktop\Repositorios\One\Prueba_git\Prueba_git\bin\Debug\Prueba_git.pdb
+C:\Users\Usuario\Desktop\Repositorios\One\Prueba_git\Prueba_git\obj\Debug\Prueba_git.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Repositorios\One\Prueba_git\Prueba_git\obj\Debug\Prueba_git.exe
+C:\Users\Usuario\Desktop\Repositorios\One\Prueba_git\Prueba_git\obj\Debug\Prueba_git.pdb
